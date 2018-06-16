@@ -1,7 +1,7 @@
 var config = {
     db :{
-        // url : 'mongodb://mongodb-service:27017/sports'
-        url : 'mongodb://localhost/sports'
+        url : 'mongodb://nagharajang@gmail.com:Heroku@123@ds261450.mlab.com:61450/heroku_s9v4vx5n',
+        // url : 'mongodb://localhost/sports'
     }
 }
 module.exports = config;
